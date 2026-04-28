@@ -194,7 +194,7 @@ false`.
 
 ```
 .
-├── FHM_transcript_combined/        # input transcripts (one per interview)
+├── FHM_transcript_combined/        # input transcripts (one per interview, not included)
 ├── Jewish survivor question choices_22Apr2026.xlsx
 ├── INDEXING_GUIDELINES_REFERENCE.md
 ├── SAMPLE_INDEXING_DATA.md
