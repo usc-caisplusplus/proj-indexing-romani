@@ -70,12 +70,6 @@ FHM_transcript_combined/
 FHM_transcript_XMLs/
 CAIS++/
 
-# ── Large / sensitive assets ─────────────────────────────────────────────────
-*.pdf
-*.xlsx
-*.xls
-*.csv
-
 # ── Logs ─────────────────────────────────────────────────────────────────────
 *.log
 logs/
