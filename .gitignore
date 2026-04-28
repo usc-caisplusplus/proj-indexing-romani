@@ -1,0 +1,81 @@
+# ── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+sdist/
+develop-eggs/
+.installed.cfg
+lib/
+lib64/
+*.pyo
+
+# ── Virtual environments ─────────────────────────────────────────────────────
+.venv/
+venv/
+ENV/
+env/
+.env/
+
+# ── Environment variables ────────────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ── Jupyter / IPython ────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Testing & coverage ───────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.tox/
+.nox/
+
+# ── Type checkers ────────────────────────────────────────────────────────────
+.mypy_cache/
+.pytype/
+.pyre/
+
+# ── IDEs & editors ───────────────────────────────────────────────────────────
+.vscode/
+.cursor/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── macOS ────────────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# ── Project-specific data & output ───────────────────────────────────────────
+.indexing_cache/
+output/
+FHM_transcript/
+FHM_transcript_combined/
+FHM_transcript_XMLs/
+CAIS++/
+
+# ── Large / sensitive assets ─────────────────────────────────────────────────
+*.pdf
+*.xlsx
+*.xls
+*.csv
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+*.log
+logs/
